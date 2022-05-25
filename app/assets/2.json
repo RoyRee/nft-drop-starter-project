@@ -1,0 +1,19 @@
+{
+    "name": "kimetsu no yaiba",
+    "symbol": "AOT",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FJDAT1mhsbRUp5ahV4LjJCTJQq5amqnGNfcdZdtHhuFc",
+          "share": 100
+        }
+      ]
+    }
+  }

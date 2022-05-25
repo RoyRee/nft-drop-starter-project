@@ -1,0 +1,19 @@
+{
+    "name": "Attack on Titan",
+    "symbol": "AOT",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FJDAT1mhsbRUp5ahV4LjJCTJQq5amqnGNfcdZdtHhuFc",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "One Piece",
+    "symbol": "OP",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FJDAT1mhsbRUp5ahV4LjJCTJQq5amqnGNfcdZdtHhuFc",
+          "share": 100
+        }
+      ]
+    }
+  }
